@@ -26,6 +26,12 @@ Make sure you have the following libraries installed:
 - URL (`https://www.youtube.com/watch?v=SWaYRyi0TTs&list=PLMoSUbG1Q_r_sc0x7ndCsqdIkL7dwrmNF&index=12`)
 
 
+## Accuracy & loss through Training model through each epoch
+![Figure_1](https://github.com/user-attachments/assets/48181010-b0e4-4f7e-ba55-0ab71b4a5e8b)
+
+![Figure_2](https://github.com/user-attachments/assets/63f09e4c-643e-457a-a421-89d3552f06e2)
+
+
 - ## Results
   ![30k](https://github.com/user-attachments/assets/4e538828-4603-4b26-b75a-f0510e7dabeb)
   ![2020](https://github.com/user-attachments/assets/86908206-13b7-46eb-983c-0e20715de1f3)
