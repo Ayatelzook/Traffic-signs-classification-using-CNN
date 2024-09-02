@@ -20,3 +20,10 @@ Make sure you have the following libraries installed:
 - `tensorflow`
 - `scikit-learn`
 - `pandas`
+  
+
+YouTube video that helped you or is similar to your project.
+- URL (`https://www.youtube.com/watch?v=SWaYRyi0TTs&list=PLMoSUbG1Q_r_sc0x7ndCsqdIkL7dwrmNF&index=12`)
+
+- ## Results
+  ![30k](https://github.com/user-attachments/assets/4e538828-4603-4b26-b75a-f0510e7dabeb)
